@@ -1,6 +1,5 @@
-
 <h1 align="center">
-👋 Hi, I’m Dillon Jenner
+  👋 Hi, I’m Dillon Jenner
 </h1>
 
 ---
@@ -9,7 +8,7 @@
   📖 Studies
 </h1>
 
-- **Current Degree**: 3rd Year BSc Computer Science  
+- **Current Degree**: 3rd Year BSC Computer Science  
 - **University**: Stellenbosch University
 
 ---
@@ -17,7 +16,6 @@
 <h1 align="center">
   💻 Languages and Tools I am Experienced With
 </h1>
-
 <p align="left">
   <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -29,8 +27,15 @@
 <h1 align="center">
   💻 Languages and Tools I have Worked With
 </h1>
-
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
+
+---
+
+<h1 align="center">
+  📱 Connect With Me
+</h1>
+<p align="left">
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luc-hayward" height="30" width="40" /></a>
