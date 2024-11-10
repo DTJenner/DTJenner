@@ -8,7 +8,8 @@
   📖 Studies
 </h1>
 
-- **Current Degree**: 3rd Year BSC Computer Science  
+- **Current Degree**: BSc Computer Science
+- **Working On**: BScHons Computer Science
 - **University**: Stellenbosch University
 
 ---
