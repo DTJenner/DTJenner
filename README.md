@@ -53,7 +53,7 @@
   📱 Connect With Me
 </h1>
 <p align="left">
-<a href="https://linkedin.com/in/dillon-jenner-4ba0b0332/" target="blank">
+<a href="https://linkedin.com/in/dillon-jenner/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
 </a>
 <a href="https://github.com/DTJenner" target="_blank">
