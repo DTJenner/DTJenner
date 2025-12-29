@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 💻 I’m currently working on my **BSc Honours in Computer Science**
+ 💻 I’m currently working on **Finding A Job**
  
- 📖 I have completed my **BSc in Computer Science**
+ 📖 I have completed my **BSc Honours in Computer Science with Cum Laude**
 
- 🏢 I am studying at **Stellenbosch University**
+ 🏢 I studied at **Stellenbosch University**
 
 </div>
  
