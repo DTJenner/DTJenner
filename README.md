@@ -24,10 +24,10 @@
   </a>
   <a href="https://linkedin.com/in/dillon-jenner/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  <!-- </a>
+  </a>
   <a href="https://dtjenner.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a> -->
+  </a>
 </div>
 
 <hr/>
